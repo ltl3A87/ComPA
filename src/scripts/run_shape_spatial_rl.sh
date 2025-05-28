@@ -11,7 +11,7 @@ export LOG_PATH="./qwenvl_25_7B_mix_R1V_Train_8K_rl.txt"
 
 
 QWEN_PATH="Qwen/Qwen2.5-VL-7B-Instruct"
-HF_DATASET="./mm_r1_combined_easy_modify" 
+HF_DATASET="tianleliphoebe/mm_r1_combined_easy_modify"
 OUTPUT_DIR=".../ComPA/outputs/qwenvl_25_7B_mix_R1V_Train_8K_rl"
 if [ ! -d "$OUTPUT_DIR" ]; then
  mkdir -p "$OUTPUT_DIR"

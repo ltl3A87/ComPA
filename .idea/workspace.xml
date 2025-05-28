@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="249d84bb-a9f7-4053-bba2-11e2381b04f0" name="更改" comment="" />
+    <list default="true" id="249d84bb-a9f7-4053-bba2-11e2381b04f0" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eval/prompts/spatial-reasoning-eval-new.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/src/eval/prompts/spatial-reasoning-eval.jsonl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/run_shape_spatial_rl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/run_shape_spatial_rl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/run_shape_spatial_rl_ground.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/run_shape_spatial_rl_ground.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/test_grpo_mm_multigpu.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/test_grpo_mm_multigpu.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ltl3A87"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ltl3A87&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ltl3A87/ComPA.git",
-    "accountId": "e16c13bd-7b0a-4a96-84f9-8390657fe904"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ltl3A87/ComPA.git&quot;,
+    &quot;accountId&quot;: &quot;e16c13bd-7b0a-4a96-84f9-8390657fe904&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -36,8 +42,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/litianle/Desktop/supplementary_compa/ComPA",
+    "last_opened_file_path": "/Users/litianle/Desktop/desk/supplementary_compa/ComPA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +71,7 @@
       <updated>1747930521623</updated>
       <workItem from="1747930522674" duration="586000" />
       <workItem from="1748222767269" duration="1365000" />
+      <workItem from="1748393329602" duration="5692000" />
     </task>
     <servers />
   </component>
